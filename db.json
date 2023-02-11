@@ -1,10 +1,10 @@
 {
   "user": [
-	{
+    {
       "email": "lim@yahoo.co.jp",
       "name": "lim",
       "password": "lim@888",
       "id": 1
-    },
+    }
   ]
 }
