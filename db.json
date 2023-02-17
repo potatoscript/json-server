@@ -1,9 +1,9 @@
 {
   "user": [
     {
-      "email": "",
+      "email": "test",
       "name": "lim",
-      "password": "",
+      "password": "test",
       "id": 1
     }
   ]
